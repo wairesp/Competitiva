@@ -1,0 +1,4 @@
+Asumiendo que v ya contiene varios enteros aleatorios al el contenido del iterador que apunta
+al comienzo de array es un numero aleatorio, por lo que en ambos "cout" se imprimiria en consola
+el mismo numero aleatorio, pero asumiendo que el vector solo contiene los numero empujados por
+el "for", en ambos "cout" se imprimiria el numero 1.
