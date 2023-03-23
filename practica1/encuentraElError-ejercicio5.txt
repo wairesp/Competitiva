@@ -1,0 +1,5 @@
+Sucede lo mismo que en el punto numero 4, suponiendo que el vector ya contiene varios
+numero aleatorios en ambos "cout" lo que se mostrara en consola sera el mismo numero
+aleatorio, pero suponiendo que el vector solo contiene los numero empujados por el "for",
+lo que se vera en consola sera el numero 1, ya que no hay modificacion ni en los indices,
+ni en los valores, ni en los punteros.
