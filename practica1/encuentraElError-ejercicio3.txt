@@ -1,0 +1,3 @@
+ms.erase(v) no borrara todas las copias existentes de ese elemento dentro del multiset
+primero se debe buscar la posicion de la primera copia y la ultima, para luego emplear
+el metodo erase y eliminar todo el intervalo.
