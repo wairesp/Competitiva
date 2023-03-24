@@ -11,15 +11,17 @@ void combinatory(int n, int k)
     bitmask.resize(n, 0);
 
     do{
-        for(int i = 1; i <= n; i++)
+        for(int i = 0; i <= n; i++)
         {
             if (bitmask[i]) 
-                cout <<  i << " ";
+                cout <<  i + 1<< " ";
         }
         cout << endl;
 
     }while(std::prev_permutation(bitmask.begin(), bitmask.end()));
 }
+
+
 
 int main()
 {
@@ -27,6 +29,10 @@ int main()
     int n = 20;
 
     for(int i = 1; i <= n; i++)
+    {
         combinatory(n , i);
-    
+        cout << endl;
+    }
+
+
 }
