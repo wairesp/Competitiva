@@ -1,5 +1,5 @@
 # Competitiva
 Integrantes:
-Alex Neyra
-Eduardo Segovia
-Brigham Caceres
+- Alex Neyra
+* Eduardo Segovia
++ Brigham Caceres
