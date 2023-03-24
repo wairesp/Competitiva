@@ -1,0 +1,2 @@
+La funcion mensionada en el enunciado sirve para contar la cantidad de bits "1" de un
+numero, por lo que no serviria con el proposito descrito.
